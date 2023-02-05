@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.even{
+    color: aliceblue;
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+    margin: 2px;
+}
+
+.odd{
+    color: aliceblue;
+    background-color: rgb(226, 43, 156);
+    width: 150px;
+    height: 150px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+    margin: 2px;
+}
